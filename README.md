@@ -1,4 +1,6 @@
 # Extracting Stock Data using Web Scraping and API
+![image](https://github.com/khaledtarek99/Extracting_Stock_Data_using_WebScraping_and_API/assets/53887110/52773b76-b81b-4a44-9bce-e569e09ddab6)
+
 This project focuses on utilizing Python to extract stock market data using various techniques, including the yfinance API and web scraping. The objective is to analyze and visualize the stock data for Tesla and GameStop, examining the relationship between stock prices and revenue, as well as the impact of external factors such as investor actions.
 ## Project Components
 The project consists of the following key components:
